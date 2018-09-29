@@ -65,4 +65,4 @@ Example response:
 
 ## Community packages
 
-* [discordboats.xyz](https://www.npmjs.com/package/discordboats.xyz) by @DetectiveHuman 
+* [discordboats.xyz](https://www.npmjs.com/package/discordboats.xyz) by [@DetectiveHuman](https://github.com/DetectiveHuman) 
