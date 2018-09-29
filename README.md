@@ -61,3 +61,8 @@ Example response:
 ## Official packages
 
 * [Boats.js](https://boats.js.org/)
+
+
+## Community packages
+
+* [discordboats.xyz](https://www.npmjs.com/package/discordboats.xyz) by @DetectiveHuman 
