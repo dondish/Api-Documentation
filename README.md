@@ -61,6 +61,7 @@ Example response:
 ## Official packages
 
 * [Boats.js](https://boats.js.org/)
+* [Boats4J](https://github.com/DiscordBoats/Boats4J)
 
 
 ## Community packages
